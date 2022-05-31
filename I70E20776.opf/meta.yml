@@ -1,0 +1,31 @@
+id: I70E20776
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:52:03.556654'
+last_modified: '2022-05-31T06:52:03.556665'
+parser: null
+source_metadata:
+  title: Pema Kunzang Rangdrol
+  language: en
+  description: 'Texts by and about Muksang Tulku Pema Kunzang Rangdrol (Padma kun
+    bzang rang grol, 1916–1984) of the Palyul tradition:'
+  volume:
+    f6131:
+      title: Brief Biography of Kharlek Tulku Pema Kunzang Rangdrol
+      base_file: f6131.txt
+      order: 1
+      parent: Biography
+    fA80D:
+      title: Annotation Commentary on the Special Teaching of the Wise and Glorious
+        King
+      base_file: fA80D.txt
+      order: 2
+      parent: Dzogchen
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
